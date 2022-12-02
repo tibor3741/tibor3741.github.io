@@ -1,0 +1,21 @@
+a{
+	text-decoration: none;
+	size: 15px;
+	color:black
+}
+a:hover{
+	color:skyblue;
+	cursor:pointer
+}
+#logo{
+	width: 30px;
+	height:30px;
+}
+#profile{
+	width: 100px;
+	height: 100px;
+	border-radius:100%;
+}
+body{
+	background-color:#777777;
+}
